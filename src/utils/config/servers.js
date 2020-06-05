@@ -1,0 +1,1 @@
+export const baseUrl = 'https://bi-beta-api.weidiango.com/api_1';
